@@ -1,0 +1,2 @@
+# Light-Powered-Car
+This car was built for a class project for the purpose of navigating through a maze in a race against other cars. At the start of the race, each car has a 30 second autonomous mode where it moves solely with pre-programmed instructions. After the 30 seconds, the drivers of each car must use a flashlight and guide the car to the end of the maze. Whoever reaches the end first wins. 
